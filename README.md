@@ -24,10 +24,10 @@ I also have solid experience with:
 
 **Frontend:**
 - 🧩 Blazor Server / Blazor WebAssembly
-- 🎨 MudBlazor, Bootstrap 5, HTML/CSS
+- 🎨 MudBlazor, Bootstrap 5, HTML/CSS, Javascript, JQuery, Ajax
 
 **Backend:**
-- ⚙️ ASP.NET Core Web API (.NET 6 / 8)
+- ⚙️ ASP.NET Core Web API (.NET 6 / 8), C# .Net, ASP.NET MVC
 - 🗄️ Entity Framework Core, MS SQL Server, MySQL
 
 **Dev Tools & Practices:**
@@ -35,6 +35,11 @@ I also have solid experience with:
 - ✅ Git & GitHub, GitHub Actions, CI/CD
 - ☁️ Visual Studio, Postman, Swagger
 - 🧠 Agile Methodology (Scrum)
+
+**Other Technologies**
+- PHP with CodeIgniter Framework
+- Java (basic exposure)
+- Desktop App Development in VB.NET and WinForms (Devexpress)
 
 ---
 
