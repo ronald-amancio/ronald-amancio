@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Ronald, a 39-year-old software developer with a strong background in full-stack development. 
+I'm Ronald, a software developer / software engineer with a strong background in full-stack development. 
 I bring years of experience working with ERP and Accounting systems, both in desktop and web-based platforms. 
 My focus is now on **modern web development** using the **ASP.NET ecosystem**, particularly **Blazor Server** and **ASP.NET Core Web API**.
 
