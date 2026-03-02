@@ -10,7 +10,7 @@
 
 I'm Ronald, a software developer / software engineer with a strong background in full-stack development. 
 I bring years of experience working with ERP and Accounting systems, both in desktop and web-based platforms. 
-My focus is now on **modern web development** using the **ASP.NET ecosystem**, particularly **Blazor Server** and **ASP.NET Core Web API**.
+My focus is now on **modern web development** using the **ASP.NET ecosystem**, particularly **Blazor Server**, **Blazor Web Assembly** and **ASP.NET Core Web API**.
 
 I also have solid experience with:
 - Desktop applications in **C# (.NET Framework)**, specializing in **Loan and Financing Systems**
@@ -32,7 +32,7 @@ I also have solid experience with:
 
 **Dev Tools & Practices:**
 - 🧪 xUnit, Moq, Integration Testing
-- ✅ Git & GitHub, GitHub Actions, CI/CD
+- ✅ Git & GitHub, Docker, GitHub Actions, CI/CD
 - ☁️ Visual Studio, Postman, Swagger
 - 🧠 Agile Methodology (Scrum)
 
