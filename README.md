@@ -2,7 +2,7 @@
 
 🚀 Full Stack .NET Developer | Blazor Specialist | Web API Engineer  
 🎓 Graduate of **University of Cebu**, Bachelor of Science in Information Technology  
-📍 Based in **Cebu City, Philippines**
+📍 Based in **Philippines**
 
 ---
 
