@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ronald Amancio
 
-🚀 Full Stack .NET Developer | Blazor Specialist | Web API Engineer  
+🚀 Full Stack .NET Developer | Blazor Specialist | Web API Engineer | AI Automations & Implementation Specialist
 🎓 Graduate of **University of Cebu**, Bachelor of Science in Information Technology  
 📍 Based in **Philippines**
 
