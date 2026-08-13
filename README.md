@@ -42,6 +42,12 @@ I also have solid experience with:
 - Java (basic exposure)
 - Desktop App Development in VB.NET and WinForms (Devexpress)
 
+**AI Automation**
+- AI Workflow Automation
+- n8n, Make, Zapier
+- AI Voice Automation
+- Payment to Phone Systems
+
 ---
 
 ## 🔧 Featured Project
