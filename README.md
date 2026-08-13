@@ -65,7 +65,7 @@ A full-stack Blazor and ASP.NET Core Web API app featuring:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ronald-amancio-41404570/)
 - 💻 [GitHub](https://github.com/ronald-amancio)
-- Updated CV [https://drive.google.com/file/d/16VNaRcEJ7zKQCunbgdAEaagqIjqi8Bjh/view?usp=drive_link](https://drive.google.com/file/d/16VNaRcEJ7zKQCunbgdAEaagqIjqi8Bjh/view?pli=1)
+- Updated CV https://drive.google.com/file/d/1RC-SfnLdtQTVTSIkuu0N64x3NlXtYYyP/view?usp=drive_link
 
 ---
 
