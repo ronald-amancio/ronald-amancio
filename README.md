@@ -24,7 +24,7 @@ I also have solid experience with:
 ## 💻 Tech Stack
 
 **Frontend:**
-- 🧩 Blazor Server / Blazor WebAssembly
+- 🧩 Blazor Server / Blazor WebAssembly / React
 - 🎨 MudBlazor, Bootstrap 5, HTML/CSS, Javascript, JQuery, Ajax
 
 **Backend:**
